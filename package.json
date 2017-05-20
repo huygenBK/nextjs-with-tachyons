@@ -1,0 +1,22 @@
+{
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build"
+  },
+  "dependencies": {
+    "next": "^2.4.0",
+    "postcss-cssnext": "^2.11.0",
+    "postcss-import": "^10.0.0",
+    "postcss-smart-import": "^0.7.0",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "styled-jsx-postcss": "^0.2.0",
+    "tachyons": "^4.7.4"
+  },
+  "babel": {
+    "presets": [
+      "./babel-preset"
+    ]
+  }
+}
