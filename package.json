@@ -5,10 +5,9 @@
     "build": "next build"
   },
   "dependencies": {
-    "next": "beta",
+    "next": "^2",
     "postcss-cssnext": "^2.11.0",
     "postcss-import": "^10.0.0",
-    "postcss-smart-import": "^0.7.0",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
     "styled-jsx-postcss": "^0.2.0",

@@ -12,6 +12,10 @@ export default class Document extends NextDocument {
           <style jsx>{`
             @import 'tachyons/src/tachyons';
 
+            body {
+              background: var(--yellow);
+            }
+
             :global(:root) {
               --blue: #00f;
             }
